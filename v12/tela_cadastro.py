@@ -1,5 +1,5 @@
 import flet as ft
-import controle as con 
+import v12.controle as con 
 
 
 def view():     

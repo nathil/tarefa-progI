@@ -1,4 +1,4 @@
-import tela_cadastro, tela_tabela
+import v12.tela_cadastro as tela_cadastro, v12.tela_tabela as tela_tabela
 import flet as ft
 
 componentes = { 
